@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>599510330568-2nfqdih4c1bccei0g8if5ddj884sk4tv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.599510330568-2nfqdih4c1bccei0g8if5ddj884sk4tv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXTxcAohKmtCNWEOLxcoGUM8_UjlCaFMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>599510330568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>alexa.Proyecto-IOS-Lab---Tigre-Bus</string>
+	<key>PROJECT_ID</key>
+	<string>ios-lab-proyecto</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-lab-proyecto.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:599510330568:ios:a34eaddad2a3fec3ef09fd</string>
+</dict>
+</plist>
